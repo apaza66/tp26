@@ -8,7 +8,7 @@ import (
 func main() {
 	// Crear un mapa para almacenar los apellidos de los jugadores y la descripcion.
 	diccionario := map[string]string{
-		"Lautaro": "Edad: 26\nNombre completo: Lautaro Javier\nApellido: Martinez\nApodo: toro\nFecha de nacimiento:  22 de agosto de 1997\nEstatura:  174 cm\nPeso: 72 kg",
+		"Cristiano": "Edad: 38\nNombre completo: Cristiano Ronaldo\nApellido: Ronaldo\nApodo:  el bicho\nFecha de nacimiento:  5 de febrero de 1985\nEstatura:  1,87 m\nPeso: 83 kg",
 		"Messi":   "Edad: 34\nNombre completo: Lionel Andres Messi \nApellido: Cuccittini\nApodo: Leo\nFecha de nacimiento: 24 de junio de 1987\nEstatura: 170 cm\nPeso: 72 kg",
 	}
 
